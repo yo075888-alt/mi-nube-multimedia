@@ -1,0 +1,8 @@
+{
+  "name":"mi-nube-multimedia",
+  "private":true,
+  "version":"0.2.0",
+  "scripts":{"dev":"next dev","build":"next build","start":"next start"},
+  "dependencies":{"@supabase/ssr":"latest","@supabase/supabase-js":"latest","lucide-react":"latest","next":"latest","react":"latest","react-dom":"latest"},
+  "devDependencies":{"@types/node":"latest","@types/react":"latest","@types/react-dom":"latest","typescript":"latest","tailwindcss":"latest","@tailwindcss/postcss":"latest","postcss":"latest"}
+}
